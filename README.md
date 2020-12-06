@@ -13,4 +13,23 @@ This app allows the user to perform CRUD operations on JSON data retrieved from 
 
 
 ## Instructions
+1. Clone this repo
+2. Install the necessary requirements by running:
+### You may wish to activate virualenv before this, but it is not necessary
+```
+pip3 install -r requirements.txt
+```
+3. Set up local database by running the following command:
+```
+python3
+>>> from contact import db
+>>> db.create_all()
+>>> exit()
+```
+4. Run main.py 
+
+```
+python3 main.py
+```
+5. Navigate to "localhost:5000"
 

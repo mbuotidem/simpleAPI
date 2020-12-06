@@ -6,10 +6,10 @@ This app allows the user to perform CRUD operations on JSON data retrieved from 
 
 ## Screenshots
 
-![Alt text](https://i.postimg.cc/tsXCgRp2/Contacts-overview.png "Contact Overview")
-![Alt text](https://i.postimg.cc/xcG1YNDX/Edit-Contacts.png "Edit Contact")
-![Alt text](https://i.postimg.cc/ThDP7Htq/Add-Contacts.png "Add Contact")
-![Alt text](https://i.postimg.cc/7frZpMcv/Delete-contacts.png "Delete Contact")
+![Alt text](https://i.postimg.cc/jSfWZC90/Contacts-overview.png "Contact Overview")
+![Alt text](https://i.postimg.cc/rF3015fN/Edit-Contacts.png "Edit Contact")
+![Alt text](https://i.postimg.cc/gdpygd0Y/Add-Contacts.png "Add Contact")
+![Alt text](https://i.postimg.cc/SNJYYgfK/Delete-contacts.png "Delete Contact")
 
 
 ## Instructions

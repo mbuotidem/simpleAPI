@@ -31,5 +31,5 @@ python3
 ```
 python3 main.py
 ```
-5. Navigate to "localhost:5000"
-
+5. Navigate to "localhost:5000" the initial run automatically fetches all the data from `MOCK_DATA.json`
+You should see 1000 records here.
